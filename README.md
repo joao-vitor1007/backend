@@ -96,3 +96,11 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+
+## How to create basic CRUD
+
+Install the nest [CLI](https://docs.nestjs.com/cli/overview) and then run the following command:
+
+```bash
+$ nest generate resource
+```
